@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, digital marketing and Environment science.
 - 🌱 I’m currently learning Web development, environment science, digital marketing.
 - 💞️ I’m looking to collaborate on projects that include HTML, JS, PHP/Laravel, MySql, ReactJS, Wordpress, CSS/Bootstrap.
-- 📫 How to reach me daodaalbert72@gmail.com, +237 695996536/672684939, Albert Daoda(facebook and LinkedIn)
+- 📫 How to reach me daodaalbert72@gmail.com, +237 695996536/672684939, Albert Daoda(facebook)
 
 
 <!---
